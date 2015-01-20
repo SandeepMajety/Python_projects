@@ -1,2 +1,2 @@
 # Python_projects
-Learning python
+Learning python through GitHub
